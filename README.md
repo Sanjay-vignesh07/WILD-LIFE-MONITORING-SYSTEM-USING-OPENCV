@@ -18,7 +18,7 @@ No IoT is required — this runs completely **offline** on your computer.
 
 ---
 
-#🛠️ Requirements
+# 🛠️ Requirements
 Install the following dependencies:
 
 ```bash
